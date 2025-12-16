@@ -1,0 +1,8 @@
+Flask
+
+tensorflow-cpu
+Pillow
+gunicorn
+numpy
+h5py
+Werkzeug
